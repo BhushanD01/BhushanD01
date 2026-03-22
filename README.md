@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I'm a Data Science Professional with strong hands-on experience in Python, SQL, and Automation. I build end-to-end data pipelines designed to collect raw, unprocessed data, perform data preprocessing and EDA, build reliable ML models, and present the findings in a way that's actually useful to the people making decisions.<br><br>
-## 💡Core Expertise:
+## 💡Core Expertise
 🔹 Programming Languages: I am proficient in Python and SQL, using them extensively for data processing, automation, and backend development. I leverage libraries like Pandas, Numpy, and Scikit-Learn for efficient data manipulation and modeling.<br><br>🔹 Data Analysis & Machine Learning: I have hands-on experience in Exploratory Data Analysis (EDA), feature engineering, and building machine learning models. I focus on developing reliable and scalable models.<br><br>🔹 Database & Data Management: I have a strong grasp of SQL and have worked extensively with relational and NoSQL databases. I excel at writing complex queries, optimizing database performance, and ensuring data integrity.<br><br>🔹 Web Scraping & Data Extraction: I have built robust web scraping solutions using Selenium and Beautiful Soup to extract and process large volumes of structured and unstructured data efficiently.<br><br>🔹 Business Intelligence & Visualization: I use Power BI and visualization libraries like Matplotlib, Plotly, and Seaborn to create insightful dashboards and reports, enabling data-driven decision-making.<br><br>
 
 <h3 align="left"><b>⚒️ Languages and Tools</b></h3>
