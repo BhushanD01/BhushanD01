@@ -1,16 +1,24 @@
-## 👋Hello, Welcome to my profile!!
+# 👋Hello, I'm Bhushan Divekar!!
 
-
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODduNGVvNDhwYjFoeGJ0dTl6emd5ZDB5eXFraWIwczM1ZzJwNnQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="350" alt="Working on Data">
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#E0FFFF"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
+</div>
 
 ## 👨‍💻 About Me
-I'm a Data Science Professional with strong hands-on experience in Python, SQL, and Automation. I build end-to-end data pipelines designed to collect raw, unprocessed data, perform data preprocessing and EDA, build reliable ML models, and present the findings in a way that's actually useful to the people making decisions.<br><br>
-## 💡Core Expertise
-🔹 **Programming Languages**: I am proficient in Python and SQL, using them extensively for data processing, automation, and backend development. I leverage libraries like Pandas, Numpy, and Scikit-Learn for efficient data manipulation and modeling.<br><br>🔹 **Data Analysis & Machine Learning**: I have hands-on experience in Exploratory Data Analysis (EDA), feature engineering, and building machine learning models. I focus on developing reliable and scalable models.<br><br>🔹 **Database & Data Management**: I have a strong grasp of SQL and have worked extensively with relational and NoSQL databases. I excel at writing complex queries, optimizing database performance, and ensuring data integrity.<br><br>🔹 **Web Scraping & Data Extraction**: I have built robust web scraping solutions using Selenium and Beautiful Soup to extract and process large volumes of structured and unstructured data efficiently.<br><br>🔹**Business Intelligence & Visualization**: I use Power BI and visualization libraries like Matplotlib, Plotly, and Seaborn to create insightful dashboards and reports, enabling data-driven decision-making.<br><br>
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODduNGVvNDhwYjFoeGJ0dTl6emd5ZDB5eXFraWIwczM1ZzJwNnQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="250" alt="Working on Data">
 
+I'm a Data Scientist with strong hands-on experience in Python, SQL, and Automation. By combining hands-on expertise in Python automation with robust MLOps practices, I build end-to-end ML pipelines that handle everything from raw ingestion to model deployment. My focus is on creating reliable, automated systems that turn raw data into high-impact decision tools. 
 
+What I do:
+
+**🔬 Data Science & ML -** Wrangling raw data into clean, analysis-ready form, uncovering patterns through EDA, and designing, training, and evaluating models that solve real problems.
+
+**⚙️ MLOps -** Bridging the gap between experimentation and production: CI/CD for ML, model monitoring, feature stores, and reproducible workflows.
+
+**🏗️ Data Engineering -** Building robust pipelines, data warehouses, and the infrastructure that makes ML possible in the first place.
+
+<br>
 
 <h2 align="left">⚒️ Technical Stack </h2>
 
