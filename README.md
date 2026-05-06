@@ -1,13 +1,9 @@
 # 👋Hello, I'm Bhushan Divekar!!
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#FFFDD0"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
-</div>
-
-## 👨‍💻 About Me
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODduNGVvNDhwYjFoeGJ0dTl6emd5ZDB5eXFraWIwczM1ZzJwNnQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="250" alt="Working on Data">
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODduNGVvNDhwYjFoeGJ0dTl6emd5ZDB5eXFraWIwczM1ZzJwNnQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="350" alt="Working on Data">
+  
+## 👨‍💻 About Me
 I'm a Data Scientist with strong hands-on experience in Python, SQL, and Automation. By combining hands-on expertise in Python automation with robust MLOps practices, I build end-to-end ML pipelines that handle everything from raw ingestion to model deployment. My focus is on creating reliable, automated systems that turn raw data into high-impact decision tools. 
 
 What I do:
@@ -86,4 +82,8 @@ What I do:
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-</p>
+</p> <br><br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#FFFDD0"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
+</div>
