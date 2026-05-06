@@ -1,7 +1,7 @@
 # 👋Hello, I'm Bhushan Divekar!!
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#E0FFFF"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#FFFDD0"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 </div>
 
 ## 👨‍💻 About Me
