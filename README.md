@@ -8,11 +8,11 @@ I'm a Data Scientist with strong hands-on experience in Python, SQL, and Automat
 
 What I do:
 
-**🔬 Data Science & ML -** Wrangling raw data into clean, analysis-ready form, uncovering patterns through EDA, and designing, training, and evaluating models that solve real problems.
+**🔬 Data Science & ML -** Data wrangling, EDA, feature engineering, model development, evaluation, and translating business problems into ML solutions.
 
-**⚙️ MLOps -** Bridging the gap between experimentation and production: CI/CD for ML, model monitoring, feature stores, and reproducible workflows.
+**⚙️ MLOps & Automation -** Reproducible ML workflows, experiment tracking, data/model versioning, CI/CD, model deployment, and workflow automation.
 
-**🏗️ Data Engineering -** Building robust pipelines, data warehouses, and the infrastructure that makes ML possible in the first place.
+**🏗️ Data Engineering -** Building ETL/ELT pipelines, API integrations, data processing workflows, and scalable data infrastructure that powers analytics and ML.
 
 <br>
 
@@ -24,6 +24,8 @@ What I do:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <hr style="width:50%; margin-left:0;">
 
@@ -45,7 +47,7 @@ What I do:
 <p align="left">
 
 ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge)
-![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge)
+![Apache Spark Badge](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=for-the-badge)
 ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff&style=for-the-badge)
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
@@ -54,13 +56,30 @@ What I do:
 </p>
 <hr style="width:50%; margin-left:0;">
 
+<!-- ===================== ARTIFICIAL INTELLIGENCE ===================== -->
+<h3 align="left">🤖 Artificial Intelligence</h3>
+<p align="left"> 
+
+![LangChain Badge](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph Badge](https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Ollama Badge](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Claude Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![CoPilot Badge](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+</p>
+<hr style="width:50%; margin-left:0;">
+
 <!-- ===================== MACHINE LEARNING ===================== -->
-<h3 align="left">🤖 Machine Learning</h3>
+<h3 align="left">💻 Machine Learning</h3>
 <p align="left">
   
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
 ![Optuna Badge](https://img.shields.io/badge/Optuna-002C76?logo=optuna&logoColor=fff&style=for-the-badge)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![DVC Badge](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow Badge](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=for-the-badge)
+![GitHub_Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge)
 </p>
 <hr style="width:50%; margin-left:0;">
@@ -82,8 +101,9 @@ What I do:
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Supabase Badge](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 </p> <br><br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#FFFDD0"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,6,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=2F4F4F&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=#FFFDD0"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 </div>
