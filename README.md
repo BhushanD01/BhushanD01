@@ -4,11 +4,13 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODduNGVvNDhwYjFoeGJ0dTl6emd5ZDB5eXFraWIwczM1ZzJwNnQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="350" alt="Working on Data">
   
 ## 👨‍💻 About Me
-I'm a Data Scientist with strong hands-on experience in Python, SQL, and Automation. By combining hands-on expertise in Python automation with robust MLOps practices, I build end-to-end ML pipelines that handle everything from raw ingestion to model deployment. My focus is on creating reliable, automated systems that turn raw data into high-impact decision tools. 
+I'm a Data Scientist with hands-on industry experience in Python, SQL, Data Analytics, Automation, and Machine Learning. I build end-to-end data solutions that transform raw data into actionable insights, predictive models, and reliable data products. My focus is on combining strong analytical thinking with engineering practices to solve real-world business problems and support data-driven decision-making.
 
 What I do:
 
 **🔬 Data Science & ML -** Data wrangling, EDA, feature engineering, model development, evaluation, and translating business problems into ML solutions.
+
+**📊 Data Analytics & BI -** Data cleaning, exploratory data analysis, statistical analysis, KPI development, SQL-based analysis, data visualization, dashboarding.
 
 **⚙️ MLOps & Automation -** Reproducible ML workflows, experiment tracking, data/model versioning, CI/CD, model deployment, and workflow automation.
 
