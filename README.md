@@ -4,7 +4,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODduNGVvNDhwYjFoeGJ0dTl6emd5ZDB5eXFraWIwczM1ZzJwNnQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="350" alt="Working on Data">
   
 ## 👨‍💻 About Me
-I'm a Data Scientist with hands-on industry experience in Python, SQL, Data Analytics, Automation, and Machine Learning. I build end-to-end data solutions that transform raw data into actionable insights, predictive models, and reliable data products. My focus is on combining strong analytical thinking with engineering practices to solve real-world business problems and support data-driven decision-making.
+I am a Data & Analytics professional with hands-on industry experience in Python, SQL, analytics engineering, business intelligence, automation, and machine learning. I have worked on designing scalable data pipelines, building semantic data models, developing interactive dashboards, and optimizing data transformation workflows using modern data stack technologies. My focus is on combining strong analytical thinking with engineering practices to solve real-world business problems and support data-driven decision-making.
 
 What I do:
 
